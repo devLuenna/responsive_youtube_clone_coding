@@ -250,6 +250,6 @@ header .icons .fa-search {
   }
   .infoAndUpNext > .upNext {
     flex: 1 1 30%;
-    padding: var(--padding) 0;
+    padding: var(--padding) var(--padding) var(--padding) 0;
   }
 }
